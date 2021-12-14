@@ -1,0 +1,101 @@
+{
+    "network": "ethereum",
+    "appId": "tokens",
+    "balances": {
+        "0x1fc6e73075c584dbdda0e53449e2c944986b9a72": {
+            "products": [
+                {
+                    "label": "Tokens",
+                    "assets": [
+                        {
+                            "type": "wallet",
+                            "balanceUSD": 493.973324,
+                            "tokens": [
+                                {
+                                    "type": "base",
+                                    "network": "ethereum",
+                                    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                                    "decimals": 18,
+                                    "symbol": "DAI",
+                                    "price": 0.999946,
+                                    "balance": 494,
+                                    "balanceRaw": "494000000000000000000",
+                                    "balanceUSD": 493.973324
+                                }
+                            ]
+                        },
+                        {
+                            "type": "wallet",
+                            "balanceUSD": 564.9687284726687,
+                            "tokens": [
+                                {
+                                    "type": "base",
+                                    "network": "ethereum",
+                                    "address": "0x0000000000000000000000000000000000000000",
+                                    "decimals": 18,
+                                    "symbol": "ETH",
+                                    "price": 3836.74,
+                                    "balance": 0.14725228409344096,
+                                    "balanceRaw": "147252284093440969",
+                                    "balanceUSD": 564.9687284726687
+                                }
+                            ]
+                        },
+                        {
+                            "type": "wallet",
+                            "balanceUSD": 564.9687284726687,
+                            "tokens": [
+                                {
+                                    "type": "base",
+                                    "network": "ethereum",
+                                    "address": "0x0000000000000000000000000000000000000001",
+                                    "decimals": 18,
+                                    "symbol": "ETHxx",
+                                    "price": 3836.74,
+                                    "balance": 0.14725228409344096,
+                                    "balanceRaw": "147252284093440969",
+                                    "balanceUSD": 564.9687284726687
+                                }
+                            ]
+                        },
+                        {
+                            "type": "wallet",
+                            "balanceUSD": 564.9687284726687,
+                            "tokens": [
+                                {
+                                    "type": "base",
+                                    "network": "ethereum",
+                                    "address": "0x0000000000000000000000000000000000000000",
+                                    "decimals": 18,
+                                    "symbol": "ETH",
+                                    "price": 3836.74,
+                                    "balance": 0.14725228409344096,
+                                    "balanceRaw": "147252284093440969",
+                                    "balanceUSD": 700.9687284726687
+                                }
+                            ]
+                        }
+                    ],
+                    "meta": []
+                }
+            ],
+            "meta": [
+                {
+                    "label": "Total",
+                    "value": 1058.9420524726686,
+                    "type": "dollar"
+                },
+                {
+                    "label": "Assets",
+                    "value": 1058.9420524726686,
+                    "type": "dollar"
+                },
+                {
+                    "label": "Debt",
+                    "value": 0,
+                    "type": "dollar"
+                }
+            ]
+        }
+    }
+}

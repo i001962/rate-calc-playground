@@ -1,0 +1,18 @@
+[
+    {
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "tier": "tier2"
+    },
+    {
+        "address": "0x0000000000000000000000000000000000000000",
+        "tier": "tier1"
+    },
+    {
+        "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+        "tier": "tier2"
+    },
+    {
+        "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+        "tier": "tier3"
+    }
+]
